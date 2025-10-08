@@ -9,19 +9,19 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "light_only" # Currently available options are "default", "air", "light_only"
-title                    : "R. Stuart Geiger"
+title                    : "LuKnagkai"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
+name                     : &name "LuKangkai"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : "https://stuartgeiger.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "lu-kangkai.github.io/kai.github.io"
 
 # Site Author
 author:
   # Biographic information
-  avatar           : "geiger_photo_2025.jpg"
-  name             : "R. Stuart Geiger"
+  avatar           : "kk.jpg"
+  name             : "LuKangkai"
   pronouns         : # example: "she/her"  
   bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://datascience.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
   location         : "San Diego, CA"
