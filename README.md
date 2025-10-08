@@ -1,7 +1,7 @@
 # kai.github.io
-<div styple="position: relative;width:100%";>
-<img src="背景图片.jpg" width="100%" alt="背景图片" style="position:relative;z-index: 1; top: 0,left: 0;">
-<img src="kk.jpg" width="200" alt="我的kk照片" style="position:relative;z-index:2;top:250px;left:50px;">
+<div styple="position: relative;width:100%"; height:300px;margin-bottom:20px;>
+  <img src="背景图片.jpg" width="100%" height="300px" alt="背景图片" style="position:relative;z-index: 1; top: 0,left: 0; obiect-fit: cover;">
+  <img src="kk.jpg" width="200" alt="我的kk照片" style="position:relative;z-index:2;top:250px;left:50% translateX(-50%);">
 Summary of Lu Kangkai's Personal Experience
 As a sophomore at Zhoukou Normal University, Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
 
