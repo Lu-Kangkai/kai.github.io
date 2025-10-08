@@ -1,4 +1,5 @@
 # kai.github.io
+<img src="背景图片.jpg" width="100%" alt="背景图片">
 <img src="kk.jpg" width="100" alt="我的kk照片">
 Summary of Lu Kangkai's Personal Experience
 As a sophomore at Zhoukou Normal University, Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
