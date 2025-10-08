@@ -1,4 +1,5 @@
 # kai.github.io
+<img src="kk.jpg" width="200" alt="我的kk照片">
 Summary of Lu Kangkai's Personal Experience
 As a sophomore at Zhoukou Normal University, Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
 
@@ -17,4 +18,3 @@ Due to his outstanding volunteer performance, he was awarded the title of "Excel
 3. Academic Performance
 
 While actively participating in competitions and practical activities, he has always maintained efficient learning, achieved excellent academic results, and realized all-round development.
-<img src="kk.jpg" width="200" alt="我的kk照片">
