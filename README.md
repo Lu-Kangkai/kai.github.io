@@ -4,19 +4,18 @@ As a sophomore at Zhoukou Normal University, Lu Kangkai has achieved outstanding
 
 1. Competition Achievements
 
-• Teamed up to participate in the school's "Huashan Cup" competition, and won the second prize with teamwork and professional capabilities.
+Teamed up to participate in the school's "Huashan Cup" competition, and won the second prize with teamwork and professional capabilities.
 
-• Took part in the school's Innovative Programming Competition, demonstrated skills related to programming design, and obtained the Excellence Award.
+Took part in the school's Innovative Programming Competition, demonstrated skills related to programming design, and obtained the Excellence Award.
 
 2. Practical and Volunteer Experience
 
-• Devoted himself to long-term volunteer teaching activities, with a total of over 30 sessions at Lilou, 4 sessions at Zhongyuan Road Primary School, and 2 sessions at Shiyuefu, accumulating rich practical experience.
+Devoted himself to long-term volunteer teaching activities, with a total of over 30 sessions at Lilou, 4 sessions at Zhongyuan Road Primary School, and 2 sessions at Shiyuefu, accumulating rich practical experience.
 
-• Due to his outstanding volunteer performance, he was awarded the title of "Excellent Young Volunteer" and the community's "Most Beautiful Volunteer" certificate, showing a strong sense of social responsibility.
+Due to his outstanding volunteer performance, he was awarded the title of "Excellent Young Volunteer" and the community's "Most Beautiful Volunteer" certificate, showing a strong sense of social responsibility.
 
 3. Academic Performance
 
 While actively participating in competitions and practical activities, he has always maintained efficient learning, achieved excellent academic results, and realized all-round development.
 ![我的kk照片的描述](kk.jpg)
-<img src="kk.jpg" width="400" alt="我的kk照片"
-![kk照片](kk.jpg) 300*200
+<img src="kk.jpg" width="400" alt="我的kk照片">
