@@ -17,3 +17,4 @@ As a sophomore at Zhoukou Normal University, Lu Kangkai has achieved outstanding
 3. Academic Performance
 
 While actively participating in competitions and practical activities, he has always maintained efficient learning, achieved excellent academic results, and realized all-round development.
+![我的kk照片的描述](kk.jpg)
