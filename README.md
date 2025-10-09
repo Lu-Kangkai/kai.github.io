@@ -1,9 +1,6 @@
 # kai.github.io
 
-<div style="position: relative; width: 100px;">
-  < img src="背景图片.jpg" width="100" alt="背景图片" style="position: absolute; top: 0; left: 0; z-index: 1;">
-  < img src="kk.jpg" width="100" alt="kk照片" style="position: absolute; top: 0; left: 0; z-index: 2;">
-</div>
+<img src="kk.jpg" width="100" alt="我的kk照片" >
 
 As a sophomore at [Zhoukou Normal University](http://www.zknu.edu.cn), Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
 
