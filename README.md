@@ -2,7 +2,7 @@
 
 
 <div style="position: relative; width: 100px;">
-  < img src="bg.jpg" width="100" alt="背景图片" style="position: absolute; top: 0; left: 0; z-index: 1;">
+  < img src="背景图片.jpg" width="100" alt="背景图片" style="position: absolute; top: 0; left: 0; z-index: 1;">
   < img src="kk.jpg" width="100" alt="kk照片" style="position: absolute; top: 0; left: 0; z-index: 2;">
 </div>
 
