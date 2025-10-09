@@ -10,7 +10,6 @@
 
 ## <a id="kai-github-io"></a >kai.github.io
 < img src="kk.jpg" width="100" alt="我的kk照片"> 
-< img src="bg.jpg" width="100" alt="我的背景图片"> 
 As a sophomore at [Zhoukou Normal University](https://www.zknu.edu.cn), Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
 
 ## <a id="competition-achievements"></a >Competition Achievements
