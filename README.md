@@ -1,5 +1,7 @@
 # kai.github.io
 
+<!-- 自定义样式的 GitHub 跳转链接 -->
+lu-Kangkai github
 <img src="kk.jpg" width="100" alt="我的kk照片" >
 
 As a sophomore at [Zhoukou Normal University](http://www.zknu.edu.cn), Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
