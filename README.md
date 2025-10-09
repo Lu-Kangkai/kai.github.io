@@ -2,7 +2,7 @@
 
 <img src="kk.jpg" width="100" alt="我的kk照片" >
 Summary of Lu Kangkai's Personal Experience
-As a sophomore at Zhoukou Normal University, Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
+As a sophomore at [Zhoukou Normal University](http://www.zknu.edu.cn), Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
 
 ## Competition Achievements
 
