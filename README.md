@@ -1,4 +1,4 @@
-<!-- 导航栏：每个链接的href要和下方锚点id完全一致 -->
+<!-- 导航栏：href 改为小写+短横线格式 -->
 <div style="background-color: #f8f9fa; border-bottom: 1px solid #ddd; padding: 10px 0; text-align: center;">
   <ul style="list-style: none; margin: 0; padding: 0;">
     <li style="display: inline-block; margin: 0 15px;">kai.github.io</li>
@@ -9,7 +9,6 @@
 </div>
 
 ## <a id="kai-github-io"></a >kai.github.io
-<!-- 这里是原有的图片和文字内容 -->
 < img src="kk.jpg" width="100" alt="我的kk照片"> 
 < img src="bg.jpg" width="100" alt="我的背景图片"> 
 As a sophomore at [Zhoukou Normal University](https://www.zknu.edu.cn), Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
