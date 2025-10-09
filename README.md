@@ -12,12 +12,7 @@
 <!-- 标题 + 可点击跳转目录的副标题 -->
 # kai.github.io
 
-
-<!-- 图片（kk照片覆盖背景图效果） -->
-<div style="position: relative; width: 100px; margin: 15px 0;">
-  < img src="bg.jpg" width="100" alt="背景图片" style="position: absolute; top: 0; left: 0; z-index: 1;">
   < img src="kk.jpg" width="100" alt="我的kk照片" style="position: absolute; top: 0; left: 0; z-index: 2;">
-</div>
 
 <!-- 个人简介 -->
 As a sophomore at [Zhoukou Normal University](https://www.zknu.edu.cn), Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
