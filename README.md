@@ -1,10 +1,10 @@
-<!-- 导航栏：href 改为小写+短横线格式 -->
+<!-- 导航栏：所有链接均为完整路径 -->
 <div style="background-color: #f8f9fa; border-bottom: 1px solid #ddd; padding: 10px 0; text-align: center;">
   <ul style="list-style: none; margin: 0; padding: 0;">
     <li style="display: inline-block; margin: 0 15px;">kai.github.io</li>
-    <li style="display: inline-block; margin: 0 15px;">Competition Achievements</li>
-    <li style="display: inline-block; margin: 0 15px;">Practical and Volunteer Experience</li>
-    <li style="display: inline-block; margin: 0 15px;">Academic Performance</li>
+    <li style="display: inline-block; margin: 0 15px;"></li>
+    <li style="display: inline-block; margin: 0 15px;"></li>
+    <li style="display: inline-block; margin: 0 15px;"></li>
   </ul>
 </div>
 
