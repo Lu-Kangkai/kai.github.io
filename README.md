@@ -21,4 +21,4 @@ Due to his outstanding volunteer performance, he was awarded the title of "Excel
 
 While actively participating in competitions and practical activities, he has always maintained efficient learning, achieved excellent academic results, and realized all-round development.
 
-Fire up a browser and go to `https://Lu-Kangkai.github.io`
+Fire up a browser and go to https://Lu-Kangkai.github.io`
