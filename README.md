@@ -1,5 +1,5 @@
 # kai.github.io
-[我的github主页]([https://Lu-Kangkai.github.io`](https://github.com/Lu-Kangkai))
+[我的github主页][https://Lu-Kangkai.github.io`](https://github.com/Lu-Kangkai)
 
 🙂：
 <img src="kk.jpg" width="100" alt="我的kk照片" >
