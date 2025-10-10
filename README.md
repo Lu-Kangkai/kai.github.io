@@ -1,5 +1,5 @@
 # kai.github.io
-[我的github主页](https://github.com/Lu-Kangkai)
+[my github homepage](https://github.com/Lu-Kangkai)
 
 🙂：
 <img src="kk.jpg" width="100" alt="我的kk照片" >
