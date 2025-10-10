@@ -1,4 +1,5 @@
 # kai.github.io
+[https://Lu-Kangkai.github.io`](https://github.com/Lu-Kangkai)
 
 🙂：
 <img src="kk.jpg" width="100" alt="我的kk照片" >
@@ -20,5 +21,3 @@ Due to his outstanding volunteer performance, he was awarded the title of "Excel
 ## Academic Performance
 
 While actively participating in competitions and practical activities, he has always maintained efficient learning, achieved excellent academic results, and realized all-round development.
-
-Fire up a browser and go to [https://Lu-Kangkai.github.io`](https://github.com/Lu-Kangkai)
